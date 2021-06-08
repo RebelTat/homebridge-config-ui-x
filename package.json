@@ -78,7 +78,7 @@
     "passport-jwt": "4.0.0",
     "pino-pretty": "^4.3.0",
     "reflect-metadata": "^0.1.12",
-    "rxjs": "^6.6.3",
+    "rxjs": "^7.0.1",
     "semver": "^7.3.4",
     "systeminformation": "4.34.5",
     "tail": "^2.2.0",
