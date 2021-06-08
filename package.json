@@ -54,7 +54,7 @@
     "@nestjs/jwt": "7.2.0",
     "@nestjs/passport": "7.1.5",
     "@nestjs/platform-fastify": "7.6.5",
-    "@nestjs/platform-socket.io": "7.6.5",
+    "@nestjs/platform-socket.io": "7.6.15",
     "@nestjs/swagger": "4.7.12",
     "@nestjs/websockets": "7.6.5",
     "@oznu/hap-client": "1.8.0",
