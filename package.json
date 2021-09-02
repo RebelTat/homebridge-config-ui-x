@@ -82,7 +82,7 @@
     "semver": "^7.3.4",
     "systeminformation": "4.34.5",
     "tail": "^2.2.0",
-    "tar": "^6.1.0",
+    "tar": "^6.1.9",
     "tcp-port-used": "^1.0.2",
     "unzipper": "^0.10.11"
   },
