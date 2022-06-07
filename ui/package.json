@@ -42,7 +42,7 @@
     "ng2-charts": "^2.4.2",
     "ng2-dragula": "^2.1.1",
     "ng2-nouislider": "^1.8.2",
-    "ngx-md": "^8.1.6",
+    "ngx-md": "^14.0.0",
     "ngx-monaco-editor": "^8.1.1",
     "ngx-toastr": "^13.2.0",
     "nouislider": "^14.6.3",
